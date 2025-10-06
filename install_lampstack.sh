@@ -237,7 +237,7 @@ echo -e "${GREEN}🎉 Instalasi LAMP Stack Selesai!${RESET}"
 echo -e "🌍 Domain: ${CYAN}$SERVER_NAME${RESET}"
 echo -e "🌐 IP Server: ${YELLOW}$SERVER_IP${RESET}"
 echo -e "🗄️ Database: ${YELLOW}$DB_NAME${RESET}"
-echo -e "👤 User DB: ${YELLOW}$DB_USER${RESET}"
+echo -e "👤 Username: ${YELLOW}$DB_USER${RESET}"
 echo -e "🔑 Password: ${YELLOW}$DB_PASS${RESET}"
 echo -e "📁 Web Root: /var/www/html"
 line
