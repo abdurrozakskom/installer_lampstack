@@ -56,8 +56,8 @@ fi
 # 🔄 Update Sistem
 # =========================================================
 line
-echo -e "${CYAN}🔄 [3/9] Update & Upgrade Sistem...${RESET}"
-apt update -y && apt upgrade -y
+echo -e "${CYAN}🔄 [3/9] Update Sistem...${RESET}"
+apt update -y
 
 # =========================================================
 # ⚙️ Apache2 Install + Tuning
